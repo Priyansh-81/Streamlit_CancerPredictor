@@ -18,7 +18,8 @@ def set_sidebar():
             label=label,
             min_value=0.0,
             max_value=ma,
-            value=avg
+            value=avg,
+            
         )
     return input_dict
 

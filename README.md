@@ -67,7 +67,7 @@ http://localhost:8501
 
 ## Live Demo
 https://nebulav1cancerpredictor.streamlit.app
-
+This link is not operational.
 ---
 
 ## Author
